@@ -546,3 +546,7 @@ footer ul {
   display: flex;
   flex-direction: column;
 }
+
+#texto-compra{
+  text-align: center;
+}

@@ -4,7 +4,7 @@ export default function Buy(){
     return(
       
       <div class="container-buy">
-        <h1>Compra realizada con exito!</h1>
+        <h1 id="texto-compra">Compra realizada con exito!</h1>
 
         <Link class="back-btn" to="/" >
             Volver al inicio
