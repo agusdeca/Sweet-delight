@@ -77,7 +77,7 @@ const CartPage = () => {
             Vaciar Carrito
           </button>
 
-          <Link className="buy-cart-btn" to="/buy">
+          <Link className="buy-cart-btn" onClick={handleClearCart} to="/buy">
             Comprar
           </Link>
           
